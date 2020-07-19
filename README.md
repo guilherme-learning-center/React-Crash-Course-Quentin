@@ -45,4 +45,3 @@ Class Post extends React.Component {
   }
 }
 ```
-
