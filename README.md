@@ -3,14 +3,14 @@
 ## What should you know before learning React?
 
 * JavaScript fundamentals:
-  - [ ] Objects
-  - [ ] Arrays
-  - [ ] Conditionals
+  - [x] Objects
+  - [x] Arrays
+  - [x] Conditionals
 * It may help to learn these first:
-  - [ ] Classes
+  - [x] Classes
   - [ ] Destructuring
-  - [ ] High Order Array Methods - forEach, map, filter
-  - [ ] Arrow Functions
+  - [x] High Order Array Methods - forEach, map, filter
+  - [x] Arrow Functions
   - [ ] Fetch API & Promises
 
 ## State
