@@ -1,4 +1,4 @@
-# React JS Crash Course (Traversy Media)
+# React Crash Course 2020 (Quentin Watt Tutorials)
 
 ## What should you know before learning React?
 
