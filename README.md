@@ -17,10 +17,12 @@
 
 ## O que aprendi neste projeto?
 
-- [ ] Estados
-- [ ] Hooks
-- [ ] Rotas
-- [ ] Manipulação do CSS (Tailwind)
+- [x] Estados
+- [x] Hooks
+- [x] Rotas
+- [x] Manipulação do CSS (Tailwind)
+- [ ] Consumo de APIs 
+- [ ] Telas de login
 
 ## Outras informações importantes
 
