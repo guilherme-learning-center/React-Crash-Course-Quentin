@@ -11,6 +11,7 @@ import Footer from './Components/Footer'
 import Home from './Views/Home'
 import About from './Views/About'
 import Contact from './Views/Contact'
+import Product from './Views/Product'
 
 function App() {
   // Texto que vai para o PR
@@ -33,6 +34,12 @@ function App() {
           <Route path="/contact">
             <Contact />
           </Route>
+
+          <Route path="/products/:id">
+            <Product />
+          </Route>
+
+
 
         
         </Switch>
