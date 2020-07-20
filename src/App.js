@@ -13,6 +13,7 @@ import About from './Views/About'
 import Contact from './Views/Contact'
 
 function App() {
+  // Texto que vai para o PR
   return (
     <div>
 
