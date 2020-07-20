@@ -31,7 +31,7 @@ function Navigation() {
             <span className="text-xl">
                 <FontAwesomeIcon
                     icon={faBars}
-                    onMouseOver={() => setShowMenu(!showMenu)}
+                    onClick={() => setShowMenu(!showMenu)}
                 />
             </span>
 
