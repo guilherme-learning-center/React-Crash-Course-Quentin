@@ -24,6 +24,10 @@
 - [ ] Consumo de APIs 
 - [ ] Telas de login
 
+## Itens para revisitar/estudar mais
+
+- [ ] O `useEffect()` e como ele faz para fazer com que o Axios bata apenas uma vez na URL requisitada, em vez de infinitas vezes
+
 ## Outras informações importantes
 
 ### States

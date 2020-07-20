@@ -6,6 +6,7 @@ import NavigationMenu from './NavigationMenu'
 
 
 function Navigation() {
+    // Texto que vai para o PR
     const [showMenu, setShowMenu] = useState(false)
 
     const maskTransitions = useTransition(showMenu, null, {
