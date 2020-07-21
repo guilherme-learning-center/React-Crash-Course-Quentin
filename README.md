@@ -22,7 +22,7 @@
 - [x] Rotas
 - [x] Manipulação do CSS (Tailwind)
 - [x] Consumo de APIs 
-- [ ] Ícones de carregamento
+- [x] Ícones de carregamento
 - [ ] Telas de login
 
 ## Itens para revisitar/estudar mais
