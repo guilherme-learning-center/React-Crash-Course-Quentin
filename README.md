@@ -11,7 +11,7 @@
   - [ ] Destructuring
   - [x] High Order Array Methods - forEach, map, filter
   - [x] Arrow Functions
-  - [ ] Fetch API & Promises
+  - [x] Fetch API & Promises
 
 
 
@@ -21,7 +21,8 @@
 - [x] Hooks
 - [x] Rotas
 - [x] Manipulação do CSS (Tailwind)
-- [ ] Consumo de APIs 
+- [x] Consumo de APIs 
+- [ ] Ícones de carregamento
 - [ ] Telas de login
 
 ## Itens para revisitar/estudar mais
