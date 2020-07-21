@@ -2,7 +2,6 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 function NavigationMenu(props) {
-    // Texto que vai para o PR
     return (
         <div>
             <div className="font-bold py-1 text-blue-printi">
