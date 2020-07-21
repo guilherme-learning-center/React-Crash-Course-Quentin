@@ -5,7 +5,7 @@ function NavigationMenu(props) {
     // Texto que vai para o PR
     return (
         <div>
-            <div className="font-bold py-3">
+            <div className="font-bold py-1 text-blue-printi">
                 AppName
                     </div>
             <ul>

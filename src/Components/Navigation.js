@@ -27,7 +27,7 @@ function Navigation() {
 
     return (
         <nav>
-            <span className="text-xl">
+            <span className="text-xl text-blue-printi">
                 <FontAwesomeIcon
                     icon={faBars}
                     onClick={() => setShowMenu(!showMenu)}
