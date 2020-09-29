@@ -14,37 +14,33 @@ import Contact from './Views/Contact'
 import Product from './Views/Product'
 
 function App() {
-  // Texto que vai para o PR
   return (
     <div>
 
       <Router>
 
         <Header />
-    <div className="p-3">
-    <Switch>
-          <Route exact path="/">
-            <Home />
-          </Route>
-          
-          <Route path="/about">
-            <About />
-          </Route>
+        <div className="p-3">
+          <Switch>
 
-          <Route path="/contact">
-            <Contact />
-          </Route>
+            <Route exact path="/">
+              <Home />
+            </Route>
 
-          <Route path="/products/:id">
-            <Product />
-          </Route>
+            <Route path="/about">
+              <About />
+            </Route>
 
+            <Route path="/contact">
+              <Contact />
+            </Route>
 
+            <Route path="/products/:id">
+              <Product />
+            </Route>
 
-        
-        </Switch>
-
-    </div>
+          </Switch>
+        </div>
 
         <Footer />
 
